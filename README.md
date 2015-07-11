@@ -10,3 +10,5 @@
 - Capture any exceptions thrown by the Goodle API
 
 ### Release 0.1.1
+- Alerting of any exceptions that made me caught
+- logs, logging, and more logging.

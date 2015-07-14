@@ -1,5 +1,7 @@
-# pycharm
+git # pycharm
 .idea*
+# Mac OSX Filesystem BS
+.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

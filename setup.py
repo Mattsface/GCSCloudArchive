@@ -10,7 +10,8 @@ setup(name='GCSCloudArchive',
       packages=find_packages(),
       install_requires=[
           'nose',
-          'gcs-oauth2-boto-plugin'
+          'gcs-oauth2-boto-plugin',
+          'gsutil'
       ],
       zip_safe=False)
 
